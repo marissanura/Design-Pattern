@@ -1,3 +1,5 @@
+package Observer;
+
 import java.util.*;
 public class Warehouse implements Subject
 {

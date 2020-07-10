@@ -1,3 +1,5 @@
+package Observer;
+
 public class Product 
 {
     private String productName;
